@@ -1,13 +1,13 @@
 {
   "signature_config": {
     "current_class": {
-      "reviewers": ["李四", "束亦诚", "赵六"],
+      "reviewers": ["李四", "王五", "赵六"],
       "secondary_reviewer": "张三",
       "header_position": "f3",
       "data_position": "f4"
     },
     "other_class": {
-      "reviewers": ["李四", "束亦诚", "楼科奇", "张三"],
+      "reviewers": ["李四", "王五", "赵六", "张三"],
       "name_cell": "h4",
       "score_cell": "i4"
     }
